@@ -1,0 +1,26 @@
+Input String: Accept an input string from the user.
+
+Operations:
+
+1. Calculate and display the length of the input string.
+
+2. Convert the input string to uppercase and display the result.
+
+3. Extract and display a substring from the input string based on user-defined start and end indices.
+
+4. Concatenate a predefined suffix (e.g., ", welcome!") to the input string and display the concatenated result.
+
+5. Replace all occurrences of a specified character with another specified character in the input string and display the modified string.
+
+6. Check if the input string contains a specified substring and display the result (true/false).
+
+7. Split the input string into an array of words based on a specified delimiter and display each word on a new line.
+
+8. Trim leading and trailing whitespace characters from the input string and display the trimmed string.
+
+9. Compare the input string with another string (case insensitive) and display whether they are equal or not.
+
+Note:--
+User Interaction:
+Prompt the user to enter a string.
+Display the results of each operation clearly labeled for easy understanding.
